@@ -1,0 +1,44 @@
+<component name="libraryTable">
+  <library name="201112">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/u/cms/www/201112/19143017qxs3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/u/cms/www/201112/19135949d13f.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/u/cms/www/201112/19142201umby.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/u/cms/www/201112/19141042cfu8.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/u/cms/www/201112/19115459jnds.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/u/cms/www/201112/19115528h893.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/u/cms/www/201112/19140010z9z1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/u/cms/www/201112/19112925s625.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/u/cms/www/201112/19135345g1s7.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/u/cms/www/201112/191418286eoi.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/u/cms/www/201112/19115540rghk.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/u/cms/www/201112/19111015xsud.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/u/cms/www/201112/19120206ddre.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/u/cms/www/201112/191425405rka.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/u/cms/www/201112/19134542a8qu.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/u/cms/www/201112/19132320u46d.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/u/cms/www/201112/19115513v9k3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/u/cms/www/201112/19114320y7x2.zip!/" />
+      <root url="jar://E:/Program Files (x86)/Apache Software Foundation/Tomcat 7.0/lib/annotations-api.jar!/" />
+      <root url="jar://E:/Program Files (x86)/Apache Software Foundation/Tomcat 7.0/lib/catalina-ant.jar!/" />
+      <root url="jar://E:/Program Files (x86)/Apache Software Foundation/Tomcat 7.0/lib/catalina-ha.jar!/" />
+      <root url="jar://E:/Program Files (x86)/Apache Software Foundation/Tomcat 7.0/lib/catalina-tribes.jar!/" />
+      <root url="jar://E:/Program Files (x86)/Apache Software Foundation/Tomcat 7.0/lib/catalina.jar!/" />
+      <root url="jar://E:/Program Files (x86)/Apache Software Foundation/Tomcat 7.0/lib/ecj-4.4.jar!/" />
+      <root url="jar://E:/Program Files (x86)/Apache Software Foundation/Tomcat 7.0/lib/el-api.jar!/" />
+      <root url="jar://E:/Program Files (x86)/Apache Software Foundation/Tomcat 7.0/lib/jasper-el.jar!/" />
+      <root url="jar://E:/Program Files (x86)/Apache Software Foundation/Tomcat 7.0/lib/jasper.jar!/" />
+      <root url="jar://E:/Program Files (x86)/Apache Software Foundation/Tomcat 7.0/lib/jsp-api.jar!/" />
+      <root url="jar://E:/Program Files (x86)/Apache Software Foundation/Tomcat 7.0/lib/servlet-api.jar!/" />
+      <root url="jar://E:/Program Files (x86)/Apache Software Foundation/Tomcat 7.0/lib/tomcat-api.jar!/" />
+      <root url="jar://E:/Program Files (x86)/Apache Software Foundation/Tomcat 7.0/lib/tomcat-coyote.jar!/" />
+      <root url="jar://E:/Program Files (x86)/Apache Software Foundation/Tomcat 7.0/lib/tomcat-dbcp.jar!/" />
+      <root url="jar://E:/Program Files (x86)/Apache Software Foundation/Tomcat 7.0/lib/tomcat-jdbc.jar!/" />
+      <root url="jar://E:/Program Files (x86)/Apache Software Foundation/Tomcat 7.0/lib/tomcat-util.jar!/" />
+      <root url="jar://E:/Program Files (x86)/Apache Software Foundation/Tomcat 7.0/lib/tomcat7-websocket.jar!/" />
+      <root url="jar://E:/Program Files (x86)/Apache Software Foundation/Tomcat 7.0/lib/websocket-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
